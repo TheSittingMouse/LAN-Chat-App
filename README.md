@@ -6,3 +6,7 @@
 1. Close the repository. Make sure cmake is installed.
 2. Open up a terminal window and go to the directory where you cloned the repository.
 3. run "cmake --build ." 
+
+## Usage
+1. You need to initialize a server by running "./talkApp server [local-ip-address] [port-number]" on a terminal window.
+2. Now, other computers on LAN can connect and start chatting by running "./talkApp client [server-ip-address] [port-no]" on their terminals.

@@ -3,7 +3,8 @@
 * Use cmake with the CMakeLists.txt in the repository for compilation. 
 
 ## Compilation
-1. Close the repository. Make sure cmake is installed.
+* Make sure Windows SDK and cmake are installed before attempting compilation.
+1. Clone the repository.
 2. Open up a terminal window and go to the directory where you cloned the repository.
 3. run "cmake --build ." 
 
